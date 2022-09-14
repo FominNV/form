@@ -1,0 +1,11 @@
+@import "styles/sass/main";
+
+.Textarea {
+  width: 100%;
+  min-height: 250px;
+  border: solid 2px #e8e8e8;
+  border-radius: 20px;
+  padding: 5px 15px;
+  box-sizing: border-box;
+  resize: none;
+}
