@@ -1,0 +1,20 @@
+@import "styles/sass/main";
+
+.Button {
+  @include btn-reset;
+  width: 100%;
+  padding: 15px;
+  background: $green;
+  font: 400 20px/20px $comfortaa-regular;
+  color: white;
+  border-radius: 20px;
+  transition: all 0.25s;
+
+  &:hover {
+    color: black;
+  }
+
+  &:active {
+    transform: scale(0.9);
+  }
+}
