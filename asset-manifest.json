@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/form/static/css/main.8303ffe8.css",
+    "main.js": "/form/static/js/main.2abacbf6.js",
+    "static/media/Comfortaa-Regular.ttf": "/form/static/media/Comfortaa-Regular.051d690872878482e7e7.ttf",
+    "static/media/loading.png": "/form/static/media/loading.024607db92329d81b480.png",
+    "static/media/settings.svg": "/form/static/media/settings.99178539e26a971ed41831dd4030d12e.svg",
+    "static/media/image.svg": "/form/static/media/image.8bb10747cccb31cd80882b987290efbe.svg",
+    "static/media/checkmark.svg": "/form/static/media/checkmark.d09045d36b1d2d0ec770833506c49c16.svg",
+    "static/media/video.svg": "/form/static/media/video.94166d7211b23f56d5458ef8f81b58d4.svg",
+    "index.html": "/form/index.html",
+    "static/media/close.svg": "/form/static/media/close.6a66ed24ff7b3d85225a52567118f8e5.svg",
+    "main.8303ffe8.css.map": "/form/static/css/main.8303ffe8.css.map",
+    "main.2abacbf6.js.map": "/form/static/js/main.2abacbf6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8303ffe8.css",
+    "static/js/main.2abacbf6.js"
+  ]
+}
