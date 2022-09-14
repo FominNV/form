@@ -1,0 +1,10 @@
+@import "styles/sass/main";
+
+.Input {
+  @include inp-reset;
+  width: 100%;
+  font: 400 16px/16px $comfortaa-regular;
+  border: solid 2px #e8e8e8;
+  border-radius: 20px;
+  padding: 5px 15px;
+}
